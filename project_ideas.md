@@ -1,4 +1,4 @@
-#C
+# C
 * x86\_64 OS
 * C interpreter
 * approximation algorithms
@@ -17,7 +17,7 @@
 * thread safe data structures
 * tiling Wayland window manager
 
-#C++
+# C++
 * Clonk clone built using SFML
 * general purpose computational group theory library
 * Hackernews cli interface
@@ -44,23 +44,23 @@
 * text adventure machine emulator
 * answer set programming solver
 
-#Lua
+# Lua
 * Nauty bindings
 * Bokeh bindings
 
-#Perl
+# Perl
 * solutions to CTCI / EOPI
 * Z80 simulator
 
-#Python
+# Python
 * Kaggle competitions
 * astronomical simulations
 
-#Verilog
+# Verilog
 * RISC-V processor implementation
 * real time JPEG generation
 * signal processing algorithms
 
-#Rust
+# Rust
 * numerical library
 * cryptography library
