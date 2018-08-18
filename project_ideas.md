@@ -55,6 +55,7 @@
 # Python
 * Kaggle competitions
 * astronomical simulations
+* markdown editor like Remarkable / Mou
 
 # Verilog
 * RISC-V processor implementation
