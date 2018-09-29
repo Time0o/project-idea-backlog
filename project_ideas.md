@@ -22,6 +22,7 @@
 * general purpose computational group theory library
 * Hackernews cli interface
 * OpenCV webcam heartrate monitor
+* Qt waveform viewer
 * Qt / ncurses gcov frontend
 * Qt interface for ngspice
 * Qt Logic-Friday clone
@@ -53,6 +54,9 @@
 * Z80 simulator
 
 # Python
+* Qt Pinta clone
+* Qt Calculator similar to Desmos
+* computational Topology library
 * Kaggle competitions
 * astronomical simulations
 * markdown editor like Remarkable / Mou
