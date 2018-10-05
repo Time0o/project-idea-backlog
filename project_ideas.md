@@ -60,6 +60,8 @@
 * Kaggle competitions
 * astronomical simulations
 * markdown editor like Remarkable / Mou
+* an improved Arduino CmdMessenger Interface (also for other languages?)
+* a terminal based Arduino development environment (think sloeber)
 
 # Verilog
 * RISC-V processor implementation
