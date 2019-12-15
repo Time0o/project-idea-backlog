@@ -57,6 +57,7 @@
 * Z80 simulator
 
 # Python
+* An Anki CLI interface
 * .dts/.dtsi/.dtb parser/generator
 * Qt Pinta clone
 * Qt Calculator similar to Desmos
