@@ -1,5 +1,6 @@
 # Any
 * CLI Tab editor/playback (killer feature: support for multiple voices, color coded)
+* StackExchange CLI browser, advanced filtering (e.g. by reputation, english level etc.)
 
 # C
 * x86\_64 OS
@@ -76,3 +77,7 @@
 # Rust
 * numerical library
 * cryptography library
+
+# Haskell
+* C to Fortran compiler
+* GAP interpreter/compiler
