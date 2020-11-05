@@ -4,6 +4,7 @@
 * A wonky file system (ling ping, git etc.)
 * A discord bot
 * Dice probability app
+* KPN simulator (local singlethreaded, local multithreaded, local processes, over network)
 
 # C
 * x86\_64 OS
