@@ -2,6 +2,8 @@
 * CLI Tab editor/playback (killer feature: support for multiple voices, color coded)
 * StackExchange CLI browser, advanced filtering (e.g. by reputation, english level etc.)
 * A wonky file system (ling ping, git etc.)
+* A discord bot
+* Dice probability app
 
 # C
 * x86\_64 OS
