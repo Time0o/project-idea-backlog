@@ -63,6 +63,7 @@
 * Z80 simulator
 
 # Python
+* Nonlinear dimensionality reduction (NLDR) library
 * An Anki CLI interface
 * .dts/.dtsi/.dtb parser/generator
 * Qt Pinta clone
