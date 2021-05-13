@@ -7,6 +7,7 @@
 * KPN simulator (local singlethreaded, local multithreaded, local processes, over network)
 
 # C
+* A simple network snooping CLI tool (libpcap)
 * x86\_64 OS
 * C interpreter
 * approximation algorithms
