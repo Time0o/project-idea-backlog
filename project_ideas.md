@@ -26,6 +26,7 @@
 * tiling Wayland window manager
 
 # C++
+* Elasticsearch client
 * Python functional modules clone using ranges/coroutine/concepts/modules
 * Clonk clone built using SFML
 * general purpose computational group theory library
