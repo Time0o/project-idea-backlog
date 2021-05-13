@@ -27,7 +27,7 @@
 * tiling Wayland window manager
 
 # C++
-* Kimchi like KVM management CLI
+* Kimchi like KVM management CLI (inspired by ranger)
 * Elasticsearch client
 * Python functional modules clone using ranges/coroutine/concepts/modules
 * Clonk clone built using SFML
@@ -66,7 +66,7 @@
 * Z80 simulator
 
 # Python
-* Automatic deep learning music transcription
+* Automatic deep learning music transcription (MuseScore plugin)
 * Nonlinear dimensionality reduction (NLDR) library
 * An Anki CLI interface
 * .dts/.dtsi/.dtb parser/generator
