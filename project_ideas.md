@@ -27,6 +27,7 @@
 * tiling Wayland window manager
 
 # C++
+* Kimchi like KVM management CLI
 * Elasticsearch client
 * Python functional modules clone using ranges/coroutine/concepts/modules
 * Clonk clone built using SFML
@@ -65,6 +66,7 @@
 * Z80 simulator
 
 # Python
+* Automatic deep learning music transcription
 * Nonlinear dimensionality reduction (NLDR) library
 * An Anki CLI interface
 * .dts/.dtsi/.dtb parser/generator
