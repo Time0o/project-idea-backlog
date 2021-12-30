@@ -87,6 +87,7 @@
 * signal processing algorithms
 
 # Rust
+* SiriDB bindings
 * numerical library
 * cryptography library
 
